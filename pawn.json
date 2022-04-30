@@ -1,0 +1,21 @@
+{
+	"user": "AlexDev",
+	"repo": "Sv_OpenCity",
+	"entry": "gamemodes\\main.pwn",
+	"output": "gamemodes/gamemodes\\main.amx",
+	"dependencies": [
+		"pawn-lang/samp-stdlib",
+		"pBlueG/SA-MP-MySQL:R41",
+		"katursis/Pawn.CMD:3.3.6"
+	],
+	"local": true,
+	"runtime": {
+		"version": "0.3.7",
+		"mode": "server",
+		"rcon_password": "password",
+		"port": 7777,
+		"hostname": "SA-MP Server",
+		"maxplayers": 50,
+		"language": ""
+	}
+}
